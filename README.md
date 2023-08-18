@@ -30,6 +30,6 @@ Furthermore, different regression techniques cater to distinct types of relation
 
 In conclusion, the careful selection of a regression model is a cornerstone of effective data analysis. It ensures the model's compatibility with the data's nature, enhances predictive accuracy, and amplifies the potential for extracting meaningful insights. As the volume and complexity of data continue to grow, the role of regression model selection becomes increasingly pivotal in unlocking the true value of data-driven exploration and decision-making.
 
-**I have created an example for both CSV and Excel datasets.**
+**I have created 2 Optimal Regression Model Selection Jupyter notebooks using CSV and Excel datasets.**
 
 **Forest_fires_Regression is using CSV file and Energy_Mgmt_Regression is using Excel file.**
